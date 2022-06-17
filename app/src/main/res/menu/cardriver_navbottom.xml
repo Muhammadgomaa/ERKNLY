@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="">
+
+    <item
+        android:id="@+id/map"
+        android:title="@string/Map"
+        android:icon="@drawable/map"
+        >
+    </item>
+
+    <item
+        android:id="@+id/list"
+        android:title="@string/List"
+        android:icon="@drawable/list"
+        >
+    </item>
+
+</menu>

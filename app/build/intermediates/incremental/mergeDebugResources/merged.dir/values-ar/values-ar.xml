@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Add">اضافه</string>
+    <string name="Add_Car_Information">أضافه معلومات السيارة</string>
+    <string name="Add_Garage_Information">أضافه معلومات الجراج</string>
+    <string name="Calculate_Fees">حساب الرسوم</string>
+    <string name="Car_Color">لون السيارة</string>
+    <string name="Car_Driver">سائق السيارة</string>
+    <string name="Car_Driver_Name">اسم سائق السيارة</string>
+    <string name="Car_Driver_Profile">"ملف سائق السيارة "</string>
+    <string name="Car_Information">معلومات السياره</string>
+    <string name="Car_Plate_Number">رقم لوحة السيارة</string>
+    <string name="Car_Type">نوع السيارة</string>
+    <string name="ChangeLang">تغيير اللغة</string>
+    <string name="Check">التحقق من السياره</string>
+    <string name="Choose_From_Following_Role">اختر من احد الأدوار التالية</string>
+    <string name="Communicate">للتواصل</string>
+    <string name="Confirm">تأكيد الحجز</string>
+    <string name="Cost_Reservations">اجمالى سعر الحجوزات (بالجنيه المصرى)</string>
+    <string name="Date">"التاريخ "</string>
+    <string name="Delete">مسح الحجز</string>
+    <string name="Details">التفاصيل</string>
+    <string name="Email_Address">" البريد الالكترونى"</string>
+    <string name="End_Date">يوم نهايه الحجز</string>
+    <string name="End_Time">وقت نهايه الحجز</string>
+    <string name="Enter_Car_Plate_Number">أدخل رقم لوحة السيارة</string>
+    <string name="Enter_EMail_Address">أدخل عنوان البريد الالكتروني</string>
+    <string name="Enter_Garage_Address">أدخل عنوان الجراج</string>
+    <string name="Enter_Garage_Name">أدخل اسم الجراج</string>
+    <string name="Enter_License_Holder_Name">أدخل اسم صاحب الرخصة</string>
+    <string name="Enter_License_ID">أدخل رقم الرخصة</string>
+    <string name="Enter_Name">أدخل الاسم</string>
+    <string name="Enter_Number_of_Available_Slots">ادخل عدد الركنات المتاحه حاليا</string>
+    <string name="Enter_Number_of_Slots">أدخل عدد الركنات</string>
+    <string name="Enter_Password">أدخل كلمة السر</string>
+    <string name="Enter_Personal_ID">أدخل رقم البطاقة الشخصية</string>
+    <string name="Enter_Phone_Number">أدخل رقم الهاتف</string>
+    <string name="Enter_Rate_Per_Hour">أدخل السعر لكل ساعه</string>
+    <string name="Forget_Password">هل نسيت كلمه المرور؟</string>
+    <string name="Garage">صفحه الجراج</string>
+    <string name="Garage_Information">معلومات الجراج</string>
+    <string name="Garage_Owner">مالك الجراج</string>
+    <string name="Garage_Rate">سعر الساعه بالجراج</string>
+    <string name="Garage_Slots">عدد الأماكن بالجراج</string>
+    <string name="Garage_Stat">احصائيات الجراج</string>
+    <string name="Garage_Status">احصائيات الجراج</string>
+    <string name="Get_Your_Perfect_Parking">احصل على موقف سيارات مثالى و أمن</string>
+    <string name="Home">الصفحه الرئيسيه</string>
+    <string name="License_Number">رقم الرخصه</string>
+    <string name="List">القائمه</string>
+    <string name="Login">تسجيل الدخول</string>
+    <string name="Map">الخريطه</string>
+    <string name="Name">الأسم</string>
+    <string name="Number_Reservations">اجمالى عدد الحجوزات</string>
+    <string name="OR">أو</string>
+    <string name="Personal_ID">الرقم القومى</string>
+    <string name="Personal_Information">المعلومات الشخصية</string>
+    <string name="Phone_Number">رقم الهاتف</string>
+    <string name="Profile">الصفحه الشخصيه</string>
+    <string name="Register">أنشاء حساب</string>
+    <string name="Reservation_Details">تفاصيل الحجز</string>
+    <string name="Reservations">قائمه الحجوزات</string>
+    <string name="Reservations_History">سجل الحجوزات</string>
+    <string name="Reserve">احجز</string>
+    <string name="Reset_Password">استعاده كلمه المرور</string>
+    <string name="Search">بحث...</string>
+    <string name="Section">الدور</string>
+    <string name="Setting">الأعدادات</string>
+    <string name="Sign_Out">تسجيل الخروج</string>
+    <string name="Slot_Number">"رقم الركنه "</string>
+    <string name="Start_Date">يوم بدايه الحجز</string>
+    <string name="Start_Time">وقت بدايه الحجز</string>
+    <string name="Time">الوقت</string>
+    <string name="Time_Reservations">اجمالى وقت الحجوزات ( بالدقائق)</string>
+    <string name="Update">تحديث</string>
+    <string name="Update_Car_Driver_Information">تحديث معلومات سائق السياره</string>
+    <string name="Update_Car_Information">تحديث معلومات السيارة</string>
+    <string name="Update_Garage_Information">تحديث معلومات الجراج</string>
+    <string name="Update_Garage_Owner_Information">تحديث معلومات مالك الجراج</string>
+    <string name="Update_Personal">تحديث المعلومات الشخصيه</string>
+    <string name="Welcome">مرحباً</string>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"التوجه إلى المنزل"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"خيارات أكثر"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"تم"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"تفعيل"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"فضاء"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"القائمة+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"بحث…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"طلب بحث"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"البحث"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"بحث صوتي"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="app_name">ERKNLY</string>
+    <string name="available_slots">الأماكن المتاحة</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">تفضل بزيارة &lt;b>facebook.com/device&lt;/b> وإدخال الرمز الموضح أعلاه.</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">حدث خطأ غير متوقع أثناء تنزيل صورة.</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">يتطلب تسجيل دخول WebView الحصول إلى إذن INTERNET</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">خطأ AndroidManifest</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">أعجبك</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">أعجبني</string>
+    <string gender="unknown" name="com_facebook_loading">جارٍ التحميل…</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">إلغاء</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">تسجيل الدخول</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">متابعة بحساب فيسبوك</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">تسجيل الدخول بحساب فيسبوك</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">تسجيل الخروج</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">تسجيل الخروج</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">تم تسجيل الدخول باسم: %1$s</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">تم تسجيل الدخول باستخدام حساب فيسبوك</string>
+    <string gender="unknown" name="com_facebook_send_button_text">إرسال</string>
+    <string gender="unknown" name="com_facebook_share_button_text">مشاركة</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">لربط حسابك، افتح تطبيق فيسبوك على جهازك المحمول وراجع الإشعارات.</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- أو -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">لست أنت؟</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">متابعة باسم %1$s</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">تأكيد تسجيل الدخول</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">أنت المتحكم في الأمر - يمكنك اختيار المعلومات التي تود مشاركتها مع التطبيقات.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"تفعيل"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏لن يعمل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تفعيل خدمات Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏تفعيل خدمات Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"تثبيت"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي لا تتوفر على جهازك."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏الحصول على خدمات Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"‏مدى توفّر خدمات Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏خطأ في خدمات Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏لدى <ns1:g id="APP_NAME">%1$s</ns1:g> مشكلة في خدمات Google Play. يُرجى إعادة المحاولة."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play التي لا يوفرها جهازك."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"تحديث"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تحديث خدمات Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏تحديث خدمات Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي يتم تحديثها حاليًا."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"فتح على الهاتف"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"تسجل الدخول"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏تسجيل الدخول عبر Google"</string>
+    <string name="details">التفاصيل</string>
+    <string name="enter_your_phone_number">أدخل رقم الهاتف</string>
+    <string name="facebook_app_id">رقم هوية حساب الفيسبوك</string>
+    <string name="fb_login_protocol_scheme">-</string>
+    <string name="garage_address">عنوان الجراج</string>
+    <string name="garage_name">"اسم الجراج "</string>
+    <string name="menu_gallery">المعرض</string>
+    <string name="menu_home">الصفحة الرئيسية</string>
+    <string name="menu_send">إرسال</string>
+    <string name="menu_share">مشاركة</string>
+    <string name="menu_slideshow">عرض الشرائح</string>
+    <string name="menu_tools">الأدوات</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"فتح لائحة التنقل"</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string msgid="730395136688082741" name="search_menu_title">"البحث"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="title_activity_car_driver_profile_map">الخريطة</string>
+    <string name="title_activity_garage_owner_pro">GarageOwnerPro</string>
+    <string name="title_activity_show">ShowActivity</string>
+</resources>

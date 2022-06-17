@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "930590322826",
+    "firebase_url": "https://erknly.firebaseio.com",
+    "project_id": "erknly",
+    "storage_bucket": "erknly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930590322826:android:aab006dec7f2a45dcc3d73",
+        "android_client_info": {
+          "package_name": "com.example.erknly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930590322826-e1um09tbr1apn150c9bf8hf9en3pcl16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.erknly",
+            "certificate_hash": "bf6d62686c370bd63fcb3896c7c8096728dc7028"
+          }
+        },
+        {
+          "client_id": "930590322826-7de6v9ljs5uecmrrqlosf9vklqlofq76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJH3clekQ50pt-RIPs65G_JU1N0bFfX1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930590322826-7de6v9ljs5uecmrrqlosf9vklqlofq76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

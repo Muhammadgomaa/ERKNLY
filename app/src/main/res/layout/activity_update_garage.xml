@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context=".UpdateGarage">
+
+    <TextView
+        android:id="@+id/dislpay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="@string/Update_Garage_Information"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="@color/cardview_light_background"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/garagename"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/Enter_Garage_Name"
+        android:textColorHint="@color/cardview_light_background"
+        android:inputType="textPersonName"
+        android:textColor="@color/cardview_light_background"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/garageaddress"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/Enter_Garage_Address"
+        android:textColorHint="@color/cardview_light_background"
+        android:inputType="textPersonName"
+        android:textColor="@color/cardview_light_background"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/xcoord"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Enter X Coordinate Google Map"
+        android:textColorHint="@color/cardview_light_background"
+        android:inputType="numberSigned|numberDecimal"
+        android:textColor="@color/cardview_light_background"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/ycoord"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Enter Y Coordinate Google Map"
+        android:textColorHint="@color/cardview_light_background"
+        android:inputType="numberSigned|numberDecimal"
+        android:textColor="@color/cardview_light_background"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/garageslots"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="350dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/Enter_Number_of_Slots"
+        android:textColorHint="@color/cardview_light_background"
+        android:inputType="numberSigned"
+        android:textColor="@color/cardview_light_background"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/garagerate"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/Enter_Rate_Per_Hour"
+        android:textColorHint="@color/cardview_light_background"
+        android:inputType="numberSigned"
+        android:textColor="@color/cardview_light_background"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/garageavailable"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="450dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/Enter_Number_of_Available_Slots"
+        android:textColorHint="@color/cardview_light_background"
+        android:inputType="numberSigned"
+        android:textColor="@color/cardview_light_background"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="500dp"
+        android:background="@drawable/garageowner_button"
+        android:onClick="UpdateGarage"
+        android:text="@string/Update"
+        android:textAllCaps="false"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+
+        android:id="@+id/nav_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:itemIconSize="25dp"
+        app:itemTextColor="#F5D314"
+        app:itemIconTint="#F5D314"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/garageowner_navbottom" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

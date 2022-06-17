@@ -1,0 +1,229 @@
+<resources>
+    <string name="app_name">ERKNLY</string>
+    <string-array name="CarType">
+        <item>Audi</item>
+        <item>Bentley</item>
+        <item>BMW</item>
+        <item>BYD</item>
+        <item>Chevrolet</item>
+        <item>Citreon</item>
+        <item>Dodge</item>
+        <item>Ferrari</item>
+        <item>Fiat</item>
+        <item>Ford</item>
+        <item>Honda</item>
+        <item>Hummer</item>
+        <item>Hyundai</item>
+        <item>Isuzu</item>
+        <item>Jaguar</item>
+        <item>Jeep</item>
+        <item>Kia</item>
+        <item>Lamborghini</item>
+        <item>Land Rover</item>
+        <item>Maserati</item>
+        <item>Mazda</item>
+        <item>Mercedes-Benz</item>
+        <item>Mini</item>
+        <item>Mitsubishi</item>
+        <item>Nissan</item>
+        <item>Opel</item>
+        <item>Peugeot</item>
+        <item>Porsche</item>
+        <item>Renault</item>
+        <item>Seat</item>
+        <item>Skoda</item>
+        <item>SsangYoung</item>
+        <item>Subaru</item>
+        <item>Suzuki</item>
+        <item>Toyota</item>
+        <item>Volkswagen</item>
+        <item>Volvo</item>
+    </string-array>
+    <string-array name="CarColor">
+        <item>Beige</item>
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Bronze</item>
+        <item>Brown</item>
+        <item>Cerise</item>
+        <item>Chocolate</item>
+        <item>Coffee</item>
+        <item>Gold</item>
+        <item>Gray</item>
+        <item>Green</item>
+        <item>Lemon</item>
+        <item>Maroon</item>
+        <item>Olive</item>
+        <item>Orange</item>
+        <item>Peach</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Raspberry</item>
+        <item>Red</item>
+        <item>Rose</item>
+        <item>Sliver</item>
+        <item>Violet</item>
+        <item>White</item>
+        <item>Yellow</item>
+    </string-array>
+    <string-array name="Section">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+    <string-array name="SlotNumber">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+    </string-array>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="facebook_app_id">358869228402755</string>
+    <string name="fb_login_protocol_scheme">fb358869228402755</string>
+    <string name="title_activity_garage_owner_pro">GarageOwnerPro</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_show">ShowActivity</string>
+    <string name="title_activity_car_driver_profile_map">Map</string>
+    <string name="Add_Car_Information">Add Car Information</string>
+    <string name="Car_Type">Car Type</string>
+    <string name="Car_Color">Car Color</string>
+    <string name="Enter_License_Holder_Name">Enter License Holder Name</string>
+    <string name="Enter_Car_Plate_Number">Enter Car Plate Number</string>
+    <string name="Add">Add</string>
+    <string name="Add_Garage_Information">Add Garage Information</string>
+    <string name="Enter_Garage_Name">Enter Garage Name</string>
+    <string name="Enter_Garage_Address">Enter Garage Address</string>
+    <string name="Enter_Number_of_Slots">Enter Number of Slots</string>
+    <string name="Enter_Rate_Per_Hour">Enter Rate Per Hour</string>
+    <string name="Enter_EMail_Address">Enter E-Mail Address</string>
+    <string name="Enter_Phone_Number">Enter Phone Number</string>
+    <string name="Enter_Name">Enter Name</string>
+    <string name="Enter_License_ID">Enter License ID</string>
+    <string name="Register">Register</string>
+    <string name="Enter_Personal_ID">Enter Personal ID</string>
+    <string name="Personal_Information">Personal Information</string>
+    <string name="Garage_Information">Garage Information</string>
+    <string name="Enter_Password">Enter Password</string>
+    <string name="Login">Login</string>
+    <string name="OR">OR</string>
+    <string name="Get_Your_Perfect_Parking">Get Your Perfect Parking</string>
+    <string name="Choose_From_Following_Role">Choose From Following Role</string>
+    <string name="Car_Driver">Car Driver</string>
+    <string name="Garage_Owner">Garage Owner</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Update_Car_Information">Update Car Information</string>
+    <string name="Update">Update</string>
+    <string name="Car_Driver_Profile">Car Driver Profile</string>
+    <string name="Update_Garage_Information">Update Garage Information</string>
+    <string name="Update_Garage_Owner_Information">Update Garage Owner Information</string>
+    <string name="ChangeLang">Change Language</string>
+    <string name="garage_name">Garage Name</string>
+    <string name="details">Details</string>
+    <string name="garage_address">Garage Address</string>
+    <string name="available_slots">Available Slots</string>
+    <string name="Date">Date</string>
+    <string name="Check">Check</string>
+    <string name="Car_Plate_Number">Car Plate Number</string>
+    <string name="Car_Driver_Name">Car Driver Name</string>
+    <string name="Calculate_Fees">Calculate Fees</string>
+    <string name="Reservation_Details">Reservation Details</string>
+    <string name="Section">Section</string>
+    <string name="Slot_Number">"Slot Number "</string>
+    <string name="Time">Time</string>
+    <string name="Forget_Password">Forget Password?</string>
+    <string name="Reset_Password">Reset Password</string>
+    <string name="Search">Search...</string>
+    <string name="Map">Map</string>
+    <string name="List">List</string>
+    <string name="Home">Home</string>
+    <string name="Profile">Profile</string>
+    <string name="Setting">Setting</string>
+    <string name="Communicate">Communicate</string>
+    <string name="Sign_Out">Sign Out</string>
+    <string name="Car_Information">Car Information</string>
+    <string name="Reservations_History">Reservations History</string>
+    <string name="Phone_Number">Phone Number</string>
+    <string name="Email_Address">E-mail Address</string>
+    <string name="License_Number">License Number</string>
+    <string name="Number_Reservations">Total Number of Reservations</string>
+    <string name="Cost_Reservations">Total Cost of Reservations (IN L.E)</string>
+    <string name="Time_Reservations">Total Time of Reservations (IN Min)</string>
+    <string name="Details">Details</string>
+    <string name="Garage_Slots">Garage Slots</string>
+    <string name="Garage_Rate">Garage Rate/Hour</string>
+    <string name="Reserve">Reserve</string>
+    <string name="Confirm">Confirm</string>
+    <string name="Update_Car_Driver_Information">Update Car Driver Information</string>
+    <string name="Update_Personal">Update Personal Info.</string>
+    <string name="Name">Name</string>
+    <string name="Personal_ID">Personal ID</string>
+    <string name="Reservations">Reservations</string>
+    <string name="Garage">Garage</string>
+    <string name="Garage_Status">Garage Status</string>
+    <string name="Garage_Stat">Garage Statistics</string>
+    <string name="Start_Date">Start Date</string>
+    <string name="Start_Time">Start Time</string>
+    <string name="End_Date">End Date</string>
+    <string name="End_Time">End Time</string>
+    <string name="Delete">Delete</string>
+    <string name="Enter_Number_of_Available_Slots">Enter Number of Available Slots</string>
+</resources>

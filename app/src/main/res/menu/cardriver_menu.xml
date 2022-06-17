@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".CarDriverProfileMap">
+
+    <item android:id="@+id/home"
+        android:title="@string/Home"
+        android:icon="@drawable/home"
+        app:showAsAction="always"
+        >
+    </item>
+
+    <item android:id="@+id/profile"
+        android:title="@string/Profile"
+        android:icon="@drawable/profile"
+        app:showAsAction="always"
+        >
+    </item>
+
+    <item android:id="@+id/setting"
+        android:title="@string/Setting"
+        android:icon="@drawable/settings"
+        app:showAsAction="always"
+        >
+        <menu>
+            <item android:id="@+id/updatepersonal"
+                android:title="@string/Update_Personal">
+            </item>
+
+            <item android:id="@+id/updatecar"
+                android:title="@string/Update_Car_Information">
+            </item>
+        </menu>
+    </item>
+
+
+    <item android:id="@+id/communicate"
+        android:title="@string/Communicate"
+        android:icon="@drawable/communicate"
+        app:showAsAction="always"
+        >
+        <menu>
+
+            <item android:id="@+id/faceboook"
+                android:title="Facebook"
+                android:icon="@drawable/facebook"
+                ></item>
+
+            <item android:id="@+id/instagram"
+                android:title="Instagram"
+                android:icon="@drawable/instagram"
+                ></item>
+
+            <item android:id="@+id/twitter"
+                android:title="Twitter"
+                android:icon="@drawable/twitter"
+                app:showAsAction="always"
+                ></item>
+        </menu>
+    </item>
+
+    <item android:id="@+id/signout"
+        android:title="@string/Sign_Out"
+        android:icon="@drawable/logout"
+        app:showAsAction="always"
+        >
+    </item>
+
+
+
+</menu>

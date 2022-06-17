@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/asset</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/cherry_swash_bold</item>
+        <item>@font/faster_one</item>
+        <item>@font/finger_paint</item>
+        <item>@font/freckle_face</item>
+        <item>@font/joti_one</item>
+        <item>@font/lato_bold</item>
+    </array>
+</resources>

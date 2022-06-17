@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">930590322826-7de6v9ljs5uecmrrqlosf9vklqlofq76.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://erknly.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">930590322826</string>
+    <string name="google_api_key" translatable="false">AIzaSyAJH3clekQ50pt-RIPs65G_JU1N0bFfX1g</string>
+    <string name="google_app_id" translatable="false">1:930590322826:android:aab006dec7f2a45dcc3d73</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAJH3clekQ50pt-RIPs65G_JU1N0bFfX1g</string>
+    <string name="google_storage_bucket" translatable="false">erknly.appspot.com</string>
+    <string name="project_id" translatable="false">erknly</string>
+</resources>

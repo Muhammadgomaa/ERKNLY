@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_garage.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_update_garage.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_garage.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\garage.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\font_asset.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\font\\asset.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_row1.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\row1.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_garage_owner.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_update_garage_owner.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_addcar.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\addcar.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_car.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_add_car.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_row.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_car.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_update_car.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\menu_cardriver_navbottom.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\menu\\cardriver_navbottom.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\font_finger_paint.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\font\\finger_paint.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_button.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\main_button.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_make_reservation.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_make_reservation.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marker16.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\marker16.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\search.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back3.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\back3.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_facebook_register_garage_owner.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_facebook_register_garage_owner.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marker24.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\marker24.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\menu_garageowner_menu.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\menu\\garageowner_menu.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marker32.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\marker32.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_status.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\status.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_google_register_garage_owner.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_google_register_garage_owner.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_car_driver_profile.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_car_driver_profile.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_garage_status.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_garage_status.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background2.jpg.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\background2.jpg"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_garage_owner.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_register_garage_owner.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_premium.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\premium.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_update.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\update.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_facebook_register_car_driver.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_facebook_register_car_driver.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\list.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_searchbar.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\searchbar.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_instagram.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\instagram.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_google_register_car_driver.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_google_register_car_driver.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\menu_garageowner_navbottom.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\menu\\garageowner_navbottom.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twitter.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\menu_cardriver_menu.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\menu\\cardriver_menu.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_personal.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\personal.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reservations_list.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_reservations_list.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_bold.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\font\\lato_bold.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_communicate.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\communicate.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_car_driver.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_register_car_driver.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background4.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\background4.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\edit_text.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_car_driver.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_update_car_driver.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_open.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_open.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_car_driver_profile_map.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_car_driver_profile_map.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_check_reservation.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_check_reservation.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_garage_owner_profile.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_garage_owner_profile.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location32.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\location32.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forget_password.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_forget_password.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\font_joti_one.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\font\\joti_one.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\font_faster_one.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\font\\faster_one.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_complete_reservation.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_complete_reservation.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\font_freckle_face.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\font\\freckle_face.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\font_cherry_swash_bold.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\font\\cherry_swash_bold.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_garageowner_button.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\garageowner_button.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_history.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\history.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cardriver_button.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\cardriver_button.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\font_aclonica.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\font\\aclonica.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back4.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\back4.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_collect_fees_garage_owner.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_collect_fees_garage_owner.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\font_bungee_inline.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\font\\bungee_inline.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location24.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable\\location24.png"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_car_driver_profile_list.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_car_driver_profile_list.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_garage.xml.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\src\\main\\res\\layout\\activity_add_garage.xml"
+    },
+    {
+        "merged": "E:\\Projects Android\\ERKNLY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Projects Android\\ERKNLY\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    }
+]

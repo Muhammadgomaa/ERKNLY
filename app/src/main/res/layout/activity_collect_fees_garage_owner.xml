@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context=".CollectFeesGarageOwner">
+
+
+    <TextView
+        android:id="@+id/display6"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:text="@string/Start_Date"
+        android:textColor="@android:color/background_light"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/startdate"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_margin="50dp"
+        android:gravity="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/display7"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="100dp"
+        android:gravity="center"
+        android:text="@string/Start_Time"
+        android:textColor="@android:color/background_light"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/starttime"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_margin="100dp"
+        android:gravity="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/display8"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="150dp"
+        android:gravity="center"
+        android:text="@string/End_Date"
+        android:textColor="@android:color/background_light"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/enddate"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_margin="150dp"
+        android:gravity="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/display9"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="200dp"
+        android:gravity="center"
+        android:text="@string/End_Time"
+        android:textColor="@android:color/background_light"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/endtime"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_margin="200dp"
+        android:gravity="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:background="@drawable/garageowner_button"
+        android:text="@string/Calculate_Fees"
+        android:textAllCaps="false"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:onClick="CalculateFees"
+        app:layout_constraintHorizontal_bias="0.25"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:background="@drawable/garageowner_button"
+        android:text="@string/Delete"
+        android:textAllCaps="false"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:onClick="Delete"
+        app:layout_constraintHorizontal_bias="0.75"
+        app:fontFamily="@font/lato_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/nav_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:fontFamily="@font/lato_bold"
+        app:itemIconSize="25dp"
+        app:itemTextColor="#F5D314"
+        app:itemIconTint="#F5D314"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/garageowner_navbottom" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
